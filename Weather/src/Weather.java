@@ -7,5 +7,6 @@ public static void main(String arsd[])
 	int far=34;
 	System.out.println("Celcius  "+cel);
 	System.out.println("Farenhit "+far);
+	System.out.println("Weather in Updated City Soon");
 }
 }
